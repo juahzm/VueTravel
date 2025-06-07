@@ -1,9 +1,6 @@
 <template>
- <header className="flex justify-between basis-[777px] ">
-            <h1 className="text-xl font-bold font-body mt-5 mb-10">Travel Packages</h1>
-             <button
-            type="button"
-            className="btn" onClick="">Add
-            </button>
+ <header class="flex justify-between ml-10 mr-10 ">
+            <h1 className="text-xl font-bold font-body">Travel Packages</h1>
+             <button type="button" class="btn" @onClick="toogleShowpackage">Add Package</button>
         </header>
 </template>
