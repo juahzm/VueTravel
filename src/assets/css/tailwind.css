@@ -1,0 +1,17 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+.btn {
+    @apply bg-yellow-200 w-auto hover:bg-yellow-100 px-4 w-auto rounded
+}
+
+.btn-red {
+    @apply bg-red-200 hover:bg-red-500 px-4 rounded
+}
+
+
+.btn-orange {
+    @apply bg-orange-200 hover:bg-orange-500 px-4 rounded
+}

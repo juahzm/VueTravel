@@ -1,0 +1,182 @@
+[
+    {
+        "id": "1",
+        "packageName": "Safari in Tanzania",
+        "country": "Tanzania",
+        "description": "Embark on a safari through Serengeti and Ngorongoro Crater to spot the Big Five.",
+        "price": 3000,
+        "category": "Aventure",
+        "image": "https://img.freepik.com/free-photo/beautiful-shot-tree-savanna-plains-with-blue-sky_181624-21992.jpg"
+    },
+    {
+        "id": "2",
+        "packageName": "Kyoto Temples Retreat",
+        "country": "Japan",
+        "description": "Wander Kyoto’s ancient streets, visit iconic temples, and enjoy a peaceful tea ceremony.",
+        "price": 2200,
+        "category": "Culture",
+        "image": "https://img.freepik.com/free-photo/yasaka-pagoda-sannen-zaka-street-kyoto-japan_335224-119.jpg"
+    },
+    {
+        "id": "3",
+        "packageName": "New Zealand Adventure",
+        "country": "New Zealand",
+        "description": "Explore fjords, volcanoes, and epic landscapes from Queenstown to Rotorua.",
+        "price": 3200,
+        "category": "Aventure",
+        "image": "https://img.freepik.com/free-photo/high-angle-shot-key-summit-lake-marian-new-zealand_181624-43215.jpg"
+    },
+    {
+        "id": "4",
+        "packageName": "Tokyo Explorer",
+        "country": "Japon",
+        "description": "Dive into futuristic cities, traditional temples, and world-renowned cuisine in Tokyo.",
+        "price": 2500,
+        "category": "Culture",
+        "image": "https://img.freepik.com/free-photo/people-walking-japan-street-nighttime_23-2148942945.jpg"
+    },
+    {
+        "id": "5",
+        "packageName": "Amazon Rainforest Expedition",
+        "country": "Brazil",
+        "description": "Venture into the Amazon jungle on a guided eco-tour full of exotic flora and fauna.",
+        "price": 2900,
+        "category": "Aventure",
+        "image": "https://img.freepik.com/free-photo/motorboat-lake-surrounded-by-beautiful-green-trees-cloudy-sky_181624-19266.jpg"
+    },
+    {
+        "id": "6",
+        "packageName": "Ski the Alps",
+        "country": "Switzerland",
+        "description": "Hit the slopes of the Swiss Alps for a luxurious skiing and snowboarding experience.",
+        "price": 3300,
+        "category": "Aventure",
+        "image": "https://img.freepik.com/free-photo/beautiful-shot-snowy-mountains-with-white-clouds_181624-45314.jpg"
+    },
+    {
+        "id": "7",
+        "packageName": "New York City Escape",
+        "country": "United States",
+        "description": "Enjoy the energy of NYC with Broadway shows, iconic landmarks, and world-class shopping.",
+        "price": 1800,
+        "category": "Culture",
+        "image": "https://img.freepik.com/free-photo/central-park-manhattan-new-york-huge-beautiful-park-surrounded-by-skyscraper-with-pond_181624-50335.jpg"
+    },
+    {
+        "id": "8",
+        "packageName": "Greek Islands Cruise",
+        "country": "Greece",
+        "description": "Sail through the Aegean Sea, stopping at Mykonos, Santorini, and other picturesque islands.",
+        "price": 2200,
+        "category": "Plage",
+        "image": "https://img.freepik.com/free-photo/aerial-view-empty-beach-seashore_181624-22457.jpg"
+    },
+    {
+        "id": "9",
+        "packageName": "Northern Lights in Iceland",
+        "country": "Iceland",
+        "description": "Witness the magical aurora borealis, soak in hot springs, and explore volcanic landscapes.",
+        "price": 2600,
+        "category": "Aventure",
+        "image": "https://img.freepik.com/free-photo/black-suv-snow-covered-field-green-aurora-lights_406225-69.jpg"
+    },
+    {
+        "id": "10",
+        "packageName": "Cape Town Discovery",
+        "country": "South Africa",
+        "description": "Explore Table Mountain, vineyards, and the vibrant cultural scene of Cape Town.",
+        "price": 2400,
+        "category": "Culture",
+        "image": "https://img.freepik.com/free-photo/coast-galicia-breathtaking-sunset_181624-19973.jpg"
+    },
+    {
+        "id": "11",
+        "packageName": "Cultural Tour of Rome",
+        "country": "Italy",
+        "description": "Walk through ancient ruins, taste authentic Italian food, and admire Renaissance art.",
+        "price": 1950,
+        "category": "Culture",
+        "image": "https://img.freepik.com/free-photo/cityscape-rome-ancient-centre-italy_1268-20482.jpg"
+    },
+    {
+        "id": "12",
+        "packageName": "Phuket Beach Resort",
+        "country": "Thailand",
+        "description": "Enjoy sunny days and turquoise waters in Thailand’s premier beach destination.",
+        "price": 1500,
+        "category": "Plage",
+        "image": "https://img.freepik.com/free-photo/pileh-blue-lagoon-phi-phi-island-thailand_231208-1487.jpg"
+    },
+    {
+        "id": "13",
+        "packageName": "Inca Trail to Machu Picchu",
+        "country": "Peru",
+        "description": "Hike the legendary Inca Trail to the breathtaking Machu Picchu ruins.",
+        "price": 2100,
+        "category": "Aventure",
+        "image": "https://img.freepik.com/free-photo/bird-s-eye-view-breathtaking-mountain-machu-picchu-peru_181624-10826.jpg"
+    },
+    {
+        "id": "14",
+        "packageName": "Dubai Luxury Escape",
+        "country": "United Arab Emirates",
+        "description": "Experience ultra-modern architecture, luxury shopping, and desert adventures.",
+        "price": 2800,
+        "category": "Culture",
+        "image": "https://img.freepik.com/free-photo/futuristic-dubai-landscape_23-2151339749.jpg"
+    },
+    {
+        "id": "15",
+        "packageName": "Maldives Overwater Retreat",
+        "country": "Maldives",
+        "description": "Stay in an overwater bungalow surrounded by clear blue waters and coral reefs.",
+        "price": 3500,
+        "category": "Plage",
+        "image": "https://img.freepik.com/free-photo/view-breathtaking-beach-nature-landscape_23-2151682890.jpg"
+    },
+    {
+        "id": "16",
+        "packageName": "Cuban Rhythms Tour",
+        "country": "Cuba",
+        "description": "Dance through Havana, explore vintage cars, and enjoy Caribbean music and beaches.",
+        "price": 1600,
+        "category": "Culture",
+        "image": "https://img.freepik.com/premium-photo/lively-colorful-streets-havana-cuba_642161-10277.jpg"
+    },
+    {
+        "id": "17",
+        "packageName": "Banff National Park Adventure",
+        "country": "Canada",
+        "description": "Hike, kayak, and photograph stunning glacial lakes in the heart of the Rockies.",
+        "price": 1800,
+        "category": "Aventure",
+        "image": "https://img.freepik.com/free-photo/photorealistic-moose-wild_23-2151543530.jpg"
+    },
+    {
+        "id": "18",
+        "packageName": "Petra & the Dead Sea Experience",
+        "country": "Jordan",
+        "description": "Discover the ancient city of Petra and float in the mineral-rich waters of the Dead Sea.",
+        "price": 2300,
+        "category": "Culture",
+        "image": "https://img.freepik.com/free-photo/view-world-monument-celebrate-world-heritage-day_23-2151297127.jpg"
+    },
+    {
+        "id": "19",
+        "packageName": "Barcelona Sun & Culture",
+        "country": "Spain",
+        "description": "Enjoy sunny beaches, Gaudí’s architecture, and tapas in lively Barcelona.",
+        "price": 1900,
+        "category": "Plage",
+        "image": "https://img.freepik.com/free-photo/panoramic-view-barcelona-multiple-building-s-roofs-view-from-parc-guell-spain_1268-18048.jpg"
+    },
+    {
+        "id": "20",
+        "packageName": "Vietnam Adventure Circuit",
+        "country": "Vietnam",
+        "description": "Travel through Hanoi, Halong Bay, and Ho Chi Minh City on an epic adventure.",
+        "price": 2000,
+        "category": "Aventure",
+        "image": "https://img.freepik.com/free-photo/fishing-village-ha-long-bay-viet-nam_181624-47285.jpg"
+    }
+]
