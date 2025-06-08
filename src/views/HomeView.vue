@@ -1,7 +1,10 @@
 <template>
+<div class="max-w-[1000px] mx-auto">
  <MainHeader :onClick="toogleShowpackage"/>
  <AddPackage v-if="showAddPackage"/>
- <SinglePackage :destinations="destinations"/>
+ <SinglePackage :destinations="destinations" :remove="removePackage"
+ />
+ </div>
 </template>
 
 <script>
@@ -17,12 +20,15 @@ export default {
   },
   data () {
     return {
-      showAddPackage: true
+      showAddPackage: false
     }
   },
   methods: {
     toogleShowpackage () {
       this.showAddPackage = !this.showAddPackage
+    },
+    removePackage (id) {
+      delete this.destinations.id
     }
   }
 }

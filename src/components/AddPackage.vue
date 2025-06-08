@@ -1,5 +1,5 @@
 <template>
- <form class="mt-10 ml-10 mr-10 " onSubmit="">
+ <form class="mt-10 ml-10 mr-10 basis-[1000px] max-w-[1000px] " onSubmit="">
             <h2 className="text-lg text-center font-bold mb-4 text-blue-700">Add Package</h2>
             <div>
                 <input
