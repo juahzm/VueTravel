@@ -13,7 +13,7 @@
                 </div>
                 <div class="flex flex-col gap-y-5">
                     <button class="btn-blue text-1xl cursor-pointer" to="">Edit</button>
-                    <button @click="remove(key)"  class="btn-red text-1xl cursor-pointer" >Delete</button>
+                    <button @click="remove(place.id)"  class="btn-red text-1xl cursor-pointer" >Delete</button>
                 </div>
             </div>
         </div >
