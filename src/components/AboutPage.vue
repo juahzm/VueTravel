@@ -1,11 +1,7 @@
 <template>
-  <div className="text-center">
-            <h4 className="font-bold text-blue-400 text-center">About this App</h4>
-            <p>Version: 1.1.1</p>
-            <p><strong>Dev: </strong>Juan Hernandez</p>
-
-            <div className='mt-7 p-1 border inline-flex rounded text-center'>
-                <a className="font-bold inline-flex text-gray-400" to="/packages"> Back</a>
-            </div>
-        </div>
+    <div className="text-center">
+        <h4 className="font-bold text-blue-400 text-center">About this App</h4>
+        <p>Version: 1.1.1</p>
+        <p><strong>Dev: </strong>Juan Hernandez</p>
+    </div>
 </template>
