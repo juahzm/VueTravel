@@ -2,6 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import AboutView from '../views/AboutView.vue'
 import SiteInfoView from '../views/SiteInfoView.vue'
+import EditPackageView from '../views/EditPackageView.vue'
 
 const routes = [
   {
@@ -13,6 +14,11 @@ const routes = [
     path: '/siteinfo',
     name: 'siteinfo',
     component: SiteInfoView
+  },
+  {
+    path: '/edit-package/:id',
+    name: 'edit-package',
+    component: EditPackageView
   },
   {
     path: '/about',
